@@ -23,7 +23,7 @@
                                                                             alt="bunyadahmadli" height="30" width="40" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center"> 💻 Tech Stack</h2>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
   src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img
