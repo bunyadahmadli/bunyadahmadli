@@ -31,7 +31,7 @@
     alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
     alt="csharp" width="40" height="40" />  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+    src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
     alt="django" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker" width="40" height="40" /> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img
